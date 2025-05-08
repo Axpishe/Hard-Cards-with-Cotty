@@ -14,3 +14,7 @@
 - Clickteam Fusion 2.5+
 - Clickteam Fusion 2.5 Developer
 - Clickteam Fusion 2.5 - HTML5 Exporter
+
+---
+🗂️ [**Оригинальный исходный код**](https://github.com/GKProduction/Fall-Dash-Classic)
+👤 [**Автор оригинального исходного кода**](https://github.com/GKProduction)
